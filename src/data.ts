@@ -11,5 +11,11 @@ export default {
             link: "https://www.instagram.com/deb_studio_estetico"
         }
     ],
-    services: ["Trattamenti Viso e Corpo", "Messaggi Personalizzati", "Dermopigmentazione", "Macchinari Estetica Base"]
+    services: [
+        "Trattamenti Viso e Corpo",
+        "Messaggi Personalizzati",
+        "Dermopigmentazione",
+        "Macchinari di ultima generazione",
+        "Estetica Base"
+    ]
 }
